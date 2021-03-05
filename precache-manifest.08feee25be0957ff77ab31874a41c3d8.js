@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8571c6835d23adc62850665f8d6467ff",
+    "revision": "34fc8053ece10566f091e45960bd1026",
     "url": "/superenalotto-simulator/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/superenalotto-simulator/static/css/2.bac56067.chunk.css"
   },
   {
-    "revision": "25d284ca33889b8f6d9f",
+    "revision": "6ac2cc6a5ce7c4fc13c2",
     "url": "/superenalotto-simulator/static/css/main.69bc5a92.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/superenalotto-simulator/static/js/2.effe3d63.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "25d284ca33889b8f6d9f",
-    "url": "/superenalotto-simulator/static/js/main.608a3b36.chunk.js"
+    "revision": "6ac2cc6a5ce7c4fc13c2",
+    "url": "/superenalotto-simulator/static/js/main.f7026ab4.chunk.js"
   },
   {
     "revision": "00aa1b7df76f4a3083aa",
