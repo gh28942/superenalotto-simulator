@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/superenalotto-simulator/static/css/main.05c9f783.chunk.css",
-    "main.js": "/superenalotto-simulator/static/js/main.d8e60f64.chunk.js",
-    "main.js.map": "/superenalotto-simulator/static/js/main.d8e60f64.chunk.js.map",
+    "main.js": "/superenalotto-simulator/static/js/main.d9cb525a.chunk.js",
+    "main.js.map": "/superenalotto-simulator/static/js/main.d9cb525a.chunk.js.map",
     "runtime-main.js": "/superenalotto-simulator/static/js/runtime-main.62c0275f.js",
     "runtime-main.js.map": "/superenalotto-simulator/static/js/runtime-main.62c0275f.js.map",
     "static/css/2.bac56067.chunk.css": "/superenalotto-simulator/static/css/2.bac56067.chunk.css",
     "static/js/2.effe3d63.chunk.js": "/superenalotto-simulator/static/js/2.effe3d63.chunk.js",
     "static/js/2.effe3d63.chunk.js.map": "/superenalotto-simulator/static/js/2.effe3d63.chunk.js.map",
     "index.html": "/superenalotto-simulator/index.html",
-    "precache-manifest.74c5b206d6f2a883af5d8a165417729c.js": "/superenalotto-simulator/precache-manifest.74c5b206d6f2a883af5d8a165417729c.js",
+    "precache-manifest.a3b693fef068f36a78b88ed4ec59dda6.js": "/superenalotto-simulator/precache-manifest.a3b693fef068f36a78b88ed4ec59dda6.js",
     "service-worker.js": "/superenalotto-simulator/service-worker.js",
     "static/css/2.bac56067.chunk.css.map": "/superenalotto-simulator/static/css/2.bac56067.chunk.css.map",
     "static/css/main.05c9f783.chunk.css.map": "/superenalotto-simulator/static/css/main.05c9f783.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.bac56067.chunk.css",
     "static/js/2.effe3d63.chunk.js",
     "static/css/main.05c9f783.chunk.css",
-    "static/js/main.d8e60f64.chunk.js"
+    "static/js/main.d9cb525a.chunk.js"
   ]
 }
