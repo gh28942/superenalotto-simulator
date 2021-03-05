@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/superenalotto-simulator/precache-manifest.cb027cfff9833b501bfc32a8ec314ca2.js"
+  "/superenalotto-simulator/precache-manifest.7f5c036609702b6aeccf89dbd68fdbb2.js"
 );
 
 self.addEventListener('message', (event) => {
