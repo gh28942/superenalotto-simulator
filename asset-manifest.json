@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/superenalotto-simulator/static/css/main.05c9f783.chunk.css",
-    "main.js": "/superenalotto-simulator/static/js/main.b0f28daa.chunk.js",
-    "main.js.map": "/superenalotto-simulator/static/js/main.b0f28daa.chunk.js.map",
+    "main.css": "/superenalotto-simulator/static/css/main.69bc5a92.chunk.css",
+    "main.js": "/superenalotto-simulator/static/js/main.6296026f.chunk.js",
+    "main.js.map": "/superenalotto-simulator/static/js/main.6296026f.chunk.js.map",
     "runtime-main.js": "/superenalotto-simulator/static/js/runtime-main.62c0275f.js",
     "runtime-main.js.map": "/superenalotto-simulator/static/js/runtime-main.62c0275f.js.map",
     "static/css/2.bac56067.chunk.css": "/superenalotto-simulator/static/css/2.bac56067.chunk.css",
     "static/js/2.effe3d63.chunk.js": "/superenalotto-simulator/static/js/2.effe3d63.chunk.js",
     "static/js/2.effe3d63.chunk.js.map": "/superenalotto-simulator/static/js/2.effe3d63.chunk.js.map",
     "index.html": "/superenalotto-simulator/index.html",
-    "precache-manifest.dc7aaf2682115294bd4e229a93da360e.js": "/superenalotto-simulator/precache-manifest.dc7aaf2682115294bd4e229a93da360e.js",
+    "precache-manifest.f7728bc8b3797989458b5beffdd303d1.js": "/superenalotto-simulator/precache-manifest.f7728bc8b3797989458b5beffdd303d1.js",
     "service-worker.js": "/superenalotto-simulator/service-worker.js",
     "static/css/2.bac56067.chunk.css.map": "/superenalotto-simulator/static/css/2.bac56067.chunk.css.map",
-    "static/css/main.05c9f783.chunk.css.map": "/superenalotto-simulator/static/css/main.05c9f783.chunk.css.map",
+    "static/css/main.69bc5a92.chunk.css.map": "/superenalotto-simulator/static/css/main.69bc5a92.chunk.css.map",
     "static/js/2.effe3d63.chunk.js.LICENSE.txt": "/superenalotto-simulator/static/js/2.effe3d63.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.62c0275f.js",
     "static/css/2.bac56067.chunk.css",
     "static/js/2.effe3d63.chunk.js",
-    "static/css/main.05c9f783.chunk.css",
-    "static/js/main.b0f28daa.chunk.js"
+    "static/css/main.69bc5a92.chunk.css",
+    "static/js/main.6296026f.chunk.js"
   ]
 }
